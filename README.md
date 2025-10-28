@@ -37,10 +37,10 @@ I love learning new things, building creative projects, and solving real-world p
 
 ### 🚀 Featured Projects  
 
-#### 🔹 [CodeKen](https://github.com/ibrahimmustafaopu/CodeKen)
+#### 🔹 [CodeKen](https://github.com/ibrahim787898m/CodeKen)
 A platform that helps people learn how to code — focused on interactivity, simplicity, and modern design.
 
-#### 🔹 [Whisper](https://github.com/ibrahimmustafaopu/Whisper)
+#### 🔹 [Whisper](https://github.com/ibrahim787898m/Whisper)
 A truly unique programming language with conversational, natural English syntax that makes coding feel like storytelling.
 
 #### 🔹 E-Commerce System (OOP in C++)
@@ -51,12 +51,12 @@ A C++ project that applies Object-Oriented Programming to simulate a complete e-
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimmustafaopu&show_icons=true&theme=tokyonight" alt="Ibrahim's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmustafaopu&theme=tokyonight" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim787898m&show_icons=true&theme=tokyonight" alt="Ibrahim's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim787898m&theme=tokyonight" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmustafaopu&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim787898m&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
@@ -64,14 +64,14 @@ A C++ project that applies Object-Oriented Programming to simulate a complete e-
 ### 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimmustafaopu&theme=tokyo-night" alt="Ibrahim's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim787898m&theme=tokyo-night" alt="Ibrahim's GitHub Contribution Graph" />
 </p>
 
 ---
 
 ### 👀 Profile Visits  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimmustafaopu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ibrahim787898m&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
