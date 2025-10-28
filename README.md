@@ -48,3 +48,9 @@ I love building innovative projects, learning new technologies, and sharing my w
 ## 📬 Contact Me
 - Email: [ibrahimmustafa787898m@gmail.com](mailto:ibrahimmustafa787898m@gmail.com)  
 - Portfolio: [ibrahimmustafaopu.com](https://ibrahimmustafaopu.com)
+
+---
+
+## 🌟 Fun Fact  
+💡 *I believe coding isn’t just about syntax — it’s about creativity, logic, and imagination.*
+
