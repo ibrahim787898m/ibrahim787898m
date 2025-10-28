@@ -46,12 +46,15 @@ I love building innovative projects, learning new technologies, and sharing my w
 ---
 
 ## 📬 Contact Me
-- Email: [ibrahimmustafa787898m@gmail.com](mailto:ibrahimmustafa787898m@gmail.com)  
-- Portfolio: [ibrahimmustafaopu.com](https://ibrahimmustafaopu.com)
-
-<a href="https://v2.ibrahimmustafaopu.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:ibrahimmustafa787898@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ibrahim787898m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://v2.ibrahimmustafaopu.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:ibrahimmustafa787898@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ibrahim787898m/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
