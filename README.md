@@ -35,7 +35,7 @@ I enjoy creating projects that mix logic, creativity, and storytelling — from 
 
 | Project | Description | Tech Stack | Preview |
 |----------|--------------|-------------|----------|
-| **[Portfolio v2](https://github.com/ibrahim787898m/portfolio-v2)** | My latest personal portfolio showcasing all projects and achievements. | HTML, CSS, JS | ![Portfolio Screenshot](https://raw.githubusercontent.com/ibrahim787898m/portfolio-v2/dev/screenshot.png) |
+| **[Portfolio v2](https://github.com/ibrahim787898m/portfolio-v2)** | My latest personal portfolio showcasing all projects and achievements. | HTML, CSS, JS | ![Portfolio Screenshot](https://raw.githubusercontent.com/ibrahim787898m/portfolio-v2/master/screenshot.png) |
 | **[Whisper Language](https://github.com/ibrahim787898m/whisper-lang)** | A unique programming language with conversational, natural syntax. | Python | ![Whisper Screenshot](https://raw.githubusercontent.com/ibrahim787898m/whisper-lang/main/screenshot.png) |
 | **[CodeKen](https://github.com/ibrahim787898m/codeken)** | A coding education platform that helps people learn how to code interactively. *(Work in progress)* | C++, Python, JS | ![CodeKen Screenshot](https://raw.githubusercontent.com/ibrahim787898m/codeken/main/screenshot.png) |
 | **[Online Diary WebApp](https://github.com/ibrahim787898m/diary-webapp)** | A full-stack personal diary app with authentication & CRUD features. | Flask, HTML, CSS, JS | ![Diary Screenshot](https://raw.githubusercontent.com/ibrahim787898m/diary-webapp/master/screenshot.png) |
