@@ -46,7 +46,7 @@ I enjoy creating projects that mix logic, creativity, and storytelling — from 
 ## 🔹 Other Projects
 
 - **[Frontend Mini Projects](https://github.com/ibrahim787898m/frontend-projects)** → Code editor, clock, form validation, dictionary, and creative UI projects.  
-- **Practice Repos** → [`py-practice`](https://github.com/ibrahim787898m/py-practice), [`cpp-practice`](https://github.com/ibrahim787898m/cpp-practice), [`c-practice`](https://github.com/ibrahim787898m/c-practice), [`js-practice`](https://github.com/ibrahim787898m/js-practice)  
+- **Practice Repos** → [`practice-py`](https://github.com/ibrahim787898m/practice-py), [`practice-cpp`](https://github.com/ibrahim787898m/practice-cpp), [`practice-c`](https://github.com/ibrahim787898m/c-practice), [`js-practice`](https://github.com/ibrahim787898m/js-practice)  
 - **[LeetCode Solutions](https://github.com/ibrahim787898m/leetcode-solutions)** → Organized coding problems and solutions by topic and language.
 
 ---
