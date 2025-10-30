@@ -41,8 +41,6 @@ I enjoy creating projects that mix logic, creativity, and storytelling — from 
 | **[Online Diary WebApp](https://github.com/ibrahim787898m/diary-webapp)** | A full-stack personal diary app with authentication & CRUD features. | Flask, HTML, CSS, JS | ![Diary Screenshot](https://raw.githubusercontent.com/ibrahim787898m/diary-webapp/master/screenshot.png) |
 | **[Frontend Clones](https://github.com/ibrahim787898m/frontend-clones)** | Facebook and YouTube frontend clones built using pure HTML, CSS, JS. | HTML, CSS, JS | ![Clone Screenshot](https://raw.githubusercontent.com/ibrahim787898m/frontend-clones/main/screenshot.png) |
 
-> 🖼️ *If images don’t appear, make sure to add `screenshot.png` inside each repo’s root folder (or adjust the paths).*
-
 ---
 
 ## 🔹 Other Projects
