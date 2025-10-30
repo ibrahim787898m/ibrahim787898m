@@ -27,7 +27,7 @@ I love building innovative projects, learning new technologies, and sharing my w
 | **[Portfolio v2](https://github.com/ibrahim787898m/portfolio-v2)** | Latest personal portfolio website showcasing my projects | HTML, CSS, JS | ![Screenshot](portfolio-v2/screenshot.png) |
 | **[Whisper Language](https://github.com/ibrahim787898m/whisper-lang)** | Unique programming language with natural, conversational syntax | Python | ![Screenshot](whisper-lang/screenshot.png) |
 | **[CodeKen](https://github.com/ibrahim787898m/codeken)** | Coding platform project (work in progress) | C++, Python, JS | ![Screenshot](codeken/screenshot.png) |
-| **[Online Diary WebApp](https://github.com/ibrahim787898m/diary-webapp)** | Full-stack diary app with authentication and CRUD features | Python (Flask), HTML, CSS, JS | ![Screenshot](https://github.com/ibrahim787898m/diary-webapp/screenshot.png) |
+| **[Online Diary WebApp](https://github.com/ibrahim787898m/diary-webapp)** | Full-stack diary app with authentication and CRUD features | Python (Flask), HTML, CSS, JS | ![Screenshot](https://github.com/ibrahim787898m/blob/master/diary-webapp/screenshot.png) |
 | **[Frontend Clones](https://github.com/ibrahim787898m/frontend-clones)** | Facebook & YouTube frontend clones | HTML, CSS, JS | ![Screenshot](frontend-clones/screenshot.png) |
 
 ---
