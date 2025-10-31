@@ -9,7 +9,7 @@
 I'm a passionate **student and developer** who loves exploring the world of **Python, C++, and JavaScript**.  
 I enjoy creating projects that mix logic, creativity, and storytelling — from full-stack web apps to my own programming language!  
 
-🌱 Currently learning: **Data Structure & Algorithm**  
+🌱 Currently learning: **Data Structures and Algorithms**  
 ⚡ Fun fact: *I believe coding isn’t just about syntax — it’s about creativity and imagination.*
 
 ---
