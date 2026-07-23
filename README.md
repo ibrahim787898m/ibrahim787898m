@@ -1,16 +1,26 @@
 # 👋 Hi, I'm Ibrahim Mustafa Opu
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ibrahim787898m&color=blue)](https://github.com/ibrahim787898m)
-[![GitHub followers](https://img.shields.io/github/followers/ibrahim787898m?label=Follow&style=social)](https://github.com/ibrahim787898m)
+Self-taught programmer in Toronto, on a gap year before starting a computer science degree.
+
+I understand things by building them. I got curious about how Python actually runs, so I wrote my own language to find out — **[Whisper](https://github.com/ibrahim787898m/whisper-lang)**, an interpreted language with conversational English syntax, published on PyPI with its own VS Code extension.
+
+🌱 Currently working through **data structures & algorithms** and **Harvard's CS50x**
+🎯 Longer-term: AI and machine learning, from the foundations up
 
 ---
 
-## 👨‍💻 About Me
-I'm a passionate **student and developer** who loves exploring the world of **Python, C++, and JavaScript**.  
-I enjoy creating projects that mix logic, creativity, and storytelling — from full-stack web apps to my own programming language!  
+## 🚀 Whisper — my programming language
 
-🌱 Currently learning: **Data Structures and Algorithms**  
-⚡ Fun fact: *I believe coding isn’t just about syntax — it’s about creativity and imagination.*
+A language with its own lexer, parser and tree-walking interpreter, written from scratch.
+
+```bash
+pip install whisper-lang
+```
+
+[![PyPI](https://img.shields.io/pypi/v/whisper-lang?color=D8A33F&label=whisper-lang)](https://pypi.org/project/whisper-lang/)
+&nbsp;[![Docs](https://img.shields.io/badge/docs-whisper.ibrahimmustafaopu.com-1572B6)](https://whisper.ibrahimmustafaopu.com/)
+
+Python 3.7+ · no dependencies · MIT · VS Code extension for syntax highlighting.
 
 ---
 
@@ -22,33 +32,25 @@ I enjoy creating projects that mix logic, creativity, and storytelling — from 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+*Learning next: React, TypeScript, SQL*
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack | Preview |
-|----------|--------------|-------------|----------|
-| **[CS50P](https://github.com/ibrahim787898m/cs50p)** | My all solutions of problem sets and the final project  of Harvard's CS50P course. | Python, GIT | ![Portfolio Screenshot](https://raw.githubusercontent.com/ibrahim787898m/cs50p/master/certificate/CS50P.png) |
-| **[Portfolio v2](https://github.com/ibrahim787898m/portfolio-v2)** | My latest personal portfolio showcasing all projects and achievements. | HTML, CSS, JS | ![Portfolio Screenshot](https://raw.githubusercontent.com/ibrahim787898m/portfolio-v2/master/screenshot.png) |
-| **[Whisper Language](https://github.com/ibrahim787898m/whisper-lang)** | A unique programming language with conversational, natural syntax. | Python | ![Whisper Screenshot](https://raw.githubusercontent.com/ibrahim787898m/whisper-web/master/screenshot.png) |
-| **[CodeKen](https://github.com/ibrahim787898m/codeken)** | A coding education platform that helps people learn how to code interactively. *(Work in progress)* | C++, Python, JS | ![CodeKen Screenshot](https://raw.githubusercontent.com/ibrahim787898m/codeken/master/screenshot.png) |
-| **[Online Diary WebApp](https://github.com/ibrahim787898m/diary-webapp)** | A full-stack personal diary app with authentication & CRUD features. | Flask, HTML, CSS, JS | ![Diary Screenshot](https://raw.githubusercontent.com/ibrahim787898m/diary-webapp/master/screenshot.png) |
-| **[Frontend Clones](https://github.com/ibrahim787898m/frontend-clones)** | Facebook and YouTube frontend clones built using pure HTML, CSS, JS. | HTML, CSS, JS | ![Clone Screenshot](https://raw.githubusercontent.com/ibrahim787898m/frontend-clones/master/screenshot.png) |
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Whisper](https://github.com/ibrahim787898m/whisper-lang)** | A programming language with conversational English syntax — lexer, parser and interpreter, published on PyPI. | Python |
+| **[Grocery Split](https://github.com/ibrahim787898m/grocery-split)** | A real-time shared expense tracker in daily use, with concurrent writes handled via Firebase. | JavaScript, Firebase |
+| **[Online Diary](https://github.com/ibrahim787898m/diary-webapp)** | A private journalling app with authentication — my first project on a real backend. | JavaScript, Firebase |
+| **[NLP Toolkit](https://github.com/ibrahim787898m/nlp-spacy)** | A CLI running eight NLP operations on any text, output as formatted tables. | Python, spaCy |
+| **[CS50P](https://github.com/ibrahim787898m/CS50P)** | All problem sets and the final project from Harvard's CS50P. | Python |
 
----
-
-## 🔹 Other Projects
-
-- **[Frontend Mini Projects](https://github.com/ibrahim787898m/frontend-projects)** → Code editor, clock, form validation, dictionary, and creative UI projects.  
-- **Practice Repos** → [`practice-py`](https://github.com/ibrahim787898m/practice-py), [`practice-cpp`](https://github.com/ibrahim787898m/practice-cpp), [`practice-c`](https://github.com/ibrahim787898m/c-practice), [`js-practice`](https://github.com/ibrahim787898m/js-practice)  
-- **[LeetCode Solutions](https://github.com/ibrahim787898m/leetcode-solutions)** → Organized coding problems and solutions by topic and language.
+*More in the [archive on my site](https://ibrahimmustafaopu.com/archive.html) — clones, coursework and practice repos.*
 
 ---
 
@@ -59,24 +61,12 @@ I enjoy creating projects that mix logic, creativity, and storytelling — from 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<a href="https://v2.ibrahimmustafaopu.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:ibrahimmustafa787898@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ibrahim787898m/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimmustafaopu.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimmustafa787898@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mibrahimOpu/)
 
 ---
 
-## 💬 Quote I Live By
-> “The best way to predict the future is to create it.” — *Alan Kay*
-
----
-
-### ✨ Thanks for stopping by!
-Feel free to check out my projects and connect — let's build something amazing together 🚀
+<sub>“The best way to predict the future is to create it.” — Alan Kay</sub>
