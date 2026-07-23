@@ -54,13 +54,6 @@ Python 3.7+ · no dependencies · MIT · VS Code extension for syntax highlighti
 
 ---
 
-## 📈 GitHub Stats
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim787898m&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim787898m&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
 ## 🌐 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimmustafaopu.com)
