@@ -49,6 +49,7 @@ Python 3.7+ · no dependencies · MIT · VS Code extension for syntax highlighti
 | **[Online Diary](https://github.com/ibrahim787898m/diary-webapp)** | A private journalling app with authentication — my first project on a real backend. | JavaScript, Firebase |
 | **[NLP Toolkit](https://github.com/ibrahim787898m/nlp-spacy)** | A CLI running eight NLP operations on any text, output as formatted tables. | Python, spaCy |
 | **[CS50P](https://github.com/ibrahim787898m/CS50P)** | All problem sets and the final project from Harvard's CS50P. | Python |
+| **[DSA](https://github.com/ibrahim787898m/dsa)** | My data structures & algorithms study: notes, hand-traced quiz answers and LeetCode solutions, topic by topic. | Python |
 
 *More in the [archive on my site](https://ibrahimmustafaopu.com/archive.html) — clones, coursework and practice repos.*
 
