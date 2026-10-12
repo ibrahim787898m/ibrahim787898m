@@ -41,18 +41,24 @@ Python 3.7+ · no dependencies · MIT · VS Code extension for syntax highlighti
 ---
 
 ## 📂 Featured Projects
-
+ 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Whisper](https://github.com/ibrahim787898m/whisper-lang)** | A programming language with conversational English syntax — lexer, parser and interpreter, published on PyPI. | Python |
 | **[Grocery Split](https://github.com/ibrahim787898m/grocery-split)** | A real-time shared expense tracker in daily use, with concurrent writes handled via Firebase. | JavaScript, Firebase |
 | **[Online Diary](https://github.com/ibrahim787898m/diary-webapp)** | A private journalling app with authentication — my first project on a real backend. | JavaScript, Firebase |
 | **[NLP Toolkit](https://github.com/ibrahim787898m/nlp-spacy)** | A CLI running eight NLP operations on any text, output as formatted tables. | Python, spaCy |
-| **[CS50P](https://github.com/ibrahim787898m/CS50P)** | All problem sets and the final project from Harvard's CS50P. | Python |
-| **[DSA](https://github.com/ibrahim787898m/dsa)** | My data structures & algorithms study: notes, hand-traced quiz answers and LeetCode solutions, topic by topic. | Python |
-
+| **[Expense Tracker](https://github.com/ibrahim787898m/cs50p-final-project)** | My CS50P final project: a command-line expense tracker with login, validation and PDF export. | Python |
+ 
+## 📚 Learning in Public
+ 
+| Repo | What's inside |
+| --- | --- |
+| **[DSA](https://github.com/ibrahim787898m/dsa)** | My data structures & algorithms study in Python: notes, hand-traced quiz answers and LeetCode solutions, topic by topic. |
+| **[CS50x](https://github.com/ibrahim787898m/cs50x)** | Lecture notes and my weekly reflections from Harvard's CS50x. No problem set solutions. |
+ 
 *More in the [archive on my site](https://ibrahimmustafaopu.com/archive.html) — clones, coursework and practice repos.*
-
+ 
 ---
 
 ## 🌐 Connect
