@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ibrahim Mustafa Opu
 
-Self-taught programmer in Toronto, on a gap year before starting a computer science degree.
+I learn by trying things I don't know how to do yet — right now that means preparing for a computer science degree.
 
-I understand things by building them. I got curious about how Python actually runs, so I wrote my own language to find out — **[Whisper](https://github.com/ibrahim787898m/whisper-lang)**, an interpreted language with conversational English syntax, published on PyPI with its own VS Code extension.
+I got curious about how Python actually runs, so I wrote my own language to find out — **[Whisper](https://github.com/ibrahim787898m/whisper-lang)**, an interpreted language with conversational English syntax, published on PyPI with its own VS Code extension.
 
 🌱 Currently working through **data structures & algorithms**, **Harvard's CS50x** and **discrete math** — all in public, below
 🎯 Longer-term: AI and machine learning, from the foundations up
